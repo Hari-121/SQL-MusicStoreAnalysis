@@ -16,7 +16,7 @@ The main goal of this project is to examine the dataset of a music store and ans
 ### Music Store Database
 The schema for the Music Store Database includes various tables related to music playlists, sales, and customer information. Below is the visual representation of the database schema.
 
-![Music Store Database Schema](MusicDatabaseSchemaMusicDatabaseSchema.png) 
+![Music Store Database Schema](/MusicDatabaseSchemaMusicDatabaseSchema.png) 
 
 
 ## How to Use
